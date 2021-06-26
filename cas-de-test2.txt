@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 6EA4-0AD7
+
+ R‚pertoire de C:\Users\marwa\Desktop\test-git
+
+26/06/2021  12:06    <DIR>          .
+26/06/2021  12:06    <DIR>          ..
+26/06/2021  12:06                 0 cas-de-test2.txt
+26/06/2021  09:50               378 test1.txt
+               2 fichier(s)              378 octets
+               2 R‚p(s)  292ÿ754ÿ231ÿ296 octets libres
